@@ -31,6 +31,8 @@ Esse desafio foi feito para avaliar suas habilidades como desenvolvedor.
 
 5. Faça commits ao longo do seu desenvolvimento.
 
+6. Abra um PR quando terminar.
+
 
 ### Link da API
 [News API](https://newsapi.org/).
