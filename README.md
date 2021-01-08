@@ -12,7 +12,7 @@ Esse desafio foi feito para avaliar suas habilidades como desenvolvedor.
 
 
 
-## Orientções
+## Orientações
 * ReactJs.
 * Git e Github.
 * Fiel ao layout.
