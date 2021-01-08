@@ -2,13 +2,22 @@
 
 # Desafio para candidatos à vaga de Instrutor VnW
 
+## Sobre o desafio 
+
 O time de Instrutores do Vai na Web precisa de um reforço em 2021.  
 
 Você deseja ser um instrutor e fortalecer o nosso time? Se você ainda não está participando do processo, pode se inscrever [aqui](https://docs.google.com/forms/d/e/1FAIpQLSd73g0fCQ3EWDRVmxuUVWjkl-2Ar2Jc-wwaCnNAla_OtV8MqQ/viewform "link para inscrição"). Temos 03 vagas disponíveis.
 
-## Sobre o desafio 
-
 Esse desafio foi feito para avaliar suas habilidades como desenvolvedor.
+
+
+
+## Orientções
+* ReactJs.
+* Git e Github.
+* Fiel ao layout.
+* Responsividade.
+
 
 ## Instruções
 
@@ -32,8 +41,3 @@ Esse desafio foi feito para avaliar suas habilidades como desenvolvedor.
 * Layout [Mobile](https://xd.adobe.com/view/e04ddb4e-1022-4530-9972-e059ce094d20-b51e/ "link para página da spec").
 
 
-## Orientções
-* ReactJs.
-* Git e Github.
-* Fiel ao layout.
-* Responsividade.
