@@ -11,26 +11,29 @@ Você deseja ser um instrutor e fortalecer o nosso time? Se você ainda não est
 Esse desafio foi feito para avaliar suas habilidades como desenvolvedor.
 
 ## Instruções
-1. Criar o responsivo com base no layout.
 
-2. Nós queremos avaliar o seu nível de conhecimento
+1. Faça um fork desse repositório.
 
-3.
+2. Crie seu projeto em REACT.
 
-4.
+3. Consuma a APi da [News API](https://newsapi.org/).
+
+4. Mostre na tela os dados da API.
+
+5. Faça commits ao longo do seu desenvolvimento.
+
+
+### Link da API
+[News API](https://newsapi.org/)
 
 ## Layout
-
-* Implemente o layout conforme o exemplo [aqui](https://www.vainaweb.com.br/ "link para página do VnW").
-* Faça login no Figma, para ter acesso a spec.
-*
-*
+* Implemente o layout conforme o exemplo abaixo:
+* Layout [Desktop](https://xd.adobe.com/view/e04ddb4e-1022-4530-9972-e059ce094d20-b51e/ "link para página da spec").
+* Layout [Mobile](https://xd.adobe.com/view/e04ddb4e-1022-4530-9972-e059ce094d20-b51e/ "link para página da spec").
 
 
 ## Orientções
-
-* Faça um fork desse repositório.
-*
-*
-*
-
+* ReactJs.
+* Git e Github.
+* Fiel ao layout.
+* Responsividade.
