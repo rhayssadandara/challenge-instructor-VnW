@@ -33,7 +33,8 @@ Esse desafio foi feito para avaliar suas habilidades como desenvolvedor.
 
 
 ### Link da API
-[News API](https://newsapi.org/)
+[News API](https://newsapi.org/).
+
 
 ## Layout
 * Implemente o layout conforme o exemplo abaixo:
