@@ -41,6 +41,6 @@ Esse desafio foi feito para avaliar suas habilidades como desenvolvedor.
 ## Layout
 * Implemente o layout conforme o exemplo abaixo:
 * Layout [Desktop](https://xd.adobe.com/view/e04ddb4e-1022-4530-9972-e059ce094d20-b51e/ "link para página da spec").
-* Layout [Mobile](https://xd.adobe.com/view/e04ddb4e-1022-4530-9972-e059ce094d20-b51e/ "link para página da spec").
+* Layout [Mobile](https://xd.adobe.com/view/e04ddb4e-1022-4530-9972-e059ce094d20-b51e/screen/f840460a-7463-43cf-8a12-baee496a9d45/ "link para página da spec").
 
 
